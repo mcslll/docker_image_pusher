@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/sagernet/sing-box:latest
