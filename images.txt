@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 ghcr.io/home-assistant/home-assistant:stable
 ghcr.io/sagernet/sing-box:latest
+ghcr.io/gotson/komga:latest
